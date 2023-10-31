@@ -9,6 +9,8 @@ using System.Security.Cryptography.X509Certificates;
 
 class Program
 {
+    //ALIREZA TABIBPOOR 
+    //EXCERSICE 6 
     private static TelegramBotClient _client;
     static void Main(string[] args)
     {
